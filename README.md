@@ -1,17 +1,18 @@
-:octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:
+<img src="https://octodex.github.com/images/nyantocat.gif" width="90px"> 
+<img src=https://octodex.github.com/images/baracktocat.jpg width="90px">
+<img src=https://octodex.github.com/images/daftpunktocat-guy.gif width="90px">
+<img src=https://octodex.github.com/images/labtocat.png width="90px">
+<img src=https://octodex.github.com/images/stormtroopocat.png width="90px">
+<img src=https://octodex.github.com/images/droidtocat.png width="90px">
+<img src=https://octodex.github.com/images/pythocat.png width="90px">
 
-# Hola mundo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+
+# Hola mundo! 
 
 
-:wave:
+
 
 <!--
 **tc-mustang/tc-mustang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
-
-:octopus:   
-
-
 
